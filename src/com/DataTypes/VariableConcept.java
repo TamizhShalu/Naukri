@@ -3,7 +3,7 @@ package com.DataTypes;
 public class VariableConcept {
 int val=2; //class variable
 	
-	static name="Tamizh";
+	//static name="Tamizh";
 	
 	
 	
